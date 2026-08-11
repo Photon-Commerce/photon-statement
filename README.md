@@ -2,7 +2,7 @@
   <img src="https://images.squarespace-cdn.com/content/v1/607861b10c0e3b4816f56581/3eea3ca7-58ca-402d-9edf-b8e9e72eca3c/lightning.png?format=300w" alt="Photon Commerce">
 
   <h1>BANK & CARD STATEMENTS</h1>
-  <p><strong>Extract structured data from bank & card statements with 99%+ accuracy</strong></p>
+  <p><strong>Extract structured data from bank & card statements with 99.9%+ accuracy</strong></p>
   <p><strong>Powered by <a href="https://www.photoncommerce.com">Photon Commerce</a> — Managed AI Agents with data verification and validation</strong></p>
 
   <p>
@@ -10,7 +10,7 @@
     &nbsp;&nbsp;
     <a href="https://www.photoncommerce.com"><img src="https://img.shields.io/badge/GDPR-Attested-blue?style=for-the-badge" alt="GDPR"></a>
     &nbsp;&nbsp;
-    <a href="https://www.photoncommerce.com/pricing"><img src="https://img.shields.io/badge/Accuracy-99%25%2B-00C853?style=for-the-badge" alt="Accuracy"></a>
+    <a href="https://www.photoncommerce.com/pricing"><img src="https://img.shields.io/badge/Accuracy-99.9%25%2B-00C853?style=for-the-badge" alt="Accuracy"></a>
     &nbsp;&nbsp;
     <a href="https://www.photoncommerce.com/platform"><img src="https://img.shields.io/badge/Languages-25%2B-FF6D00?style=for-the-badge" alt="Languages"></a>
   </p>
