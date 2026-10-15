@@ -88,6 +88,8 @@ print(result["ending_balance"])     # 13946.68
 |----------|------|---------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | [extract_statement.py](extract_statement.py) | requests |
 | ![JavaScript](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | [extract_statement.js](extract_statement.js) | fetch + form-data |
+| ![cURL](https://img.shields.io/badge/cURL-073551?style=flat-square&logo=curl&logoColor=white) | [extract_statement.sh](extract_statement.sh) | curl |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | [extract_statement.php](extract_statement.php) | Guzzle |
 
 
 Every example supports both **local file upload** and **URL-based submission**, plus optional webhook callbacks.
