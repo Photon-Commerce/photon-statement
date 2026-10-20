@@ -222,6 +222,7 @@ Get credentials: [Register a free sandbox account](https://sandbox-api.photoncom
 | [`photon-invoice`](https://github.com/Photon-Commerce/photon-invoice) | Invoices |
 | [`photon-receipt`](https://github.com/Photon-Commerce/photon-receipt) | Receipts |
 | [`photon-bill-of-lading`](https://github.com/Photon-Commerce/photon-bill-of-lading) | Bills of lading |
+| [`photon-check`](https://github.com/Photon-Commerce/photon-check) | Checks |
 
 
 ---
