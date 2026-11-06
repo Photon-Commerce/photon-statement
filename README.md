@@ -92,6 +92,8 @@ print(result["ending_balance"])     # 13946.68
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | [extract_statement.php](extract_statement.php) | Guzzle |
 | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | [extract_statement.go](extract_statement.go) | net/http |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | [extract_statement.java](extract_statement.java) | OkHttp |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | [extract_statement.cs](extract_statement.cs) | HttpClient (.NET 6+) |
+| ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) | [extract_statement.rb](extract_statement.rb) | Net::HTTP |
 
 
 Every example supports both **local file upload** and **URL-based submission**, plus optional webhook callbacks.
